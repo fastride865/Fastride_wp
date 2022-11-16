@@ -1,0 +1,5 @@
+[13-Jul-2022 02:47:20 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/fastr9ja/public_html/wp-includes/functions.php on line 8
+[13-Jul-2022 02:47:20 America/Chicago] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home3/fastr9ja/public_html/wp-includes/functions.php on line 8
+[13-Jul-2022 02:47:20 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/fastr9ja/public_html/wp-includes/functions.php on line 8
+[13-Jul-2022 02:47:20 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/fastr9ja/public_html/wp-includes/functions.php on line 8
+[13-Jul-2022 02:47:20 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/fastr9ja/public_html/wp-includes/functions.php on line 8
